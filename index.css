@@ -1,0 +1,10 @@
+/* src/index.css */
+
+/* Global styles for the entire application */
+body {
+  margin: 0; /* Remove default margin */
+  font-family: Arial, sans-serif; /* Set a default font */
+  background-color: #f0f0f0; /* Set a light gray background color */
+}
+
+/* You can add more global styles here as needed */
